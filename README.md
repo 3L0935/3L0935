@@ -28,13 +28,13 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=3L0935&theme=tokyonight&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=3L0935&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=3L0935&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=3L0935&theme=tokyonight&hide_border=true" />
 
 </div>
 
