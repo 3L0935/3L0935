@@ -18,8 +18,9 @@
 ## what I do
 
 - 🎮 **Game dev** @ **Reissad Studio** — working on **Bodycam** and more
-- 🤖 **AI-assisted dev** — Claude + me, it's a thing
-- 🛠 **Tools & infra** — CLI stuff, daemons, wrappers, the works
+- 🤖 **AI-assisted dev** — Claude writes, I pray it doesn't nuke my machine
+- 🛠 **Tools & infra** — random experiments and half-finished ideas that I call "projects"
+- 🐧 I use Arch btw
 
 ---
 
@@ -43,5 +44,9 @@
 <div align="center">
 
 *"any sufficiently advanced laziness is indistinguishable from automation"*
+
+<br>
+
+![i use arch btw](https://media.tenor.com/5uCC2ilwcm8AAAAj/arch-i-use-arch-btw.gif)
 
 </div>
