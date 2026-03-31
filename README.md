@@ -17,7 +17,7 @@
 
 ## what I do
 
-- 🎮 **Game dev** @ [Reissad Studio](https://github.com/ReissadStudio) — working on **Bodycam** and more
+- 🎮 **Game dev** @ **Reissad Studio** — working on **Bodycam** and more
 - 🤖 **AI-assisted dev** — Claude + me, it's a thing
 - 🛠 **Tools & infra** — CLI stuff, daemons, wrappers, the works
 
