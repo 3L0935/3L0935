@@ -24,22 +24,6 @@
 
 ---
 
-## stats
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=3L0935&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=3L0935&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 *"any sufficiently advanced laziness is indistinguishable from automation"*
