@@ -28,8 +28,7 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=3L0935&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3L0935&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=3L0935&theme=tokyonight&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
