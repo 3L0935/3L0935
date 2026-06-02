@@ -17,7 +17,7 @@
 ## what I do
 
 - 🎮 **QA** @ **Reissad Studio** — working on **Bodycam**
-- 🤖 **AI-assisted dev** — Claude writes, I pray it doesn't nuke my machine
+- 🤖 **AI-assisted dev** — Hermes writes, I pray it doesn't nuke my machine
 - 🛠 **Tools & infra** — random experiments and half-finished ideas that I call "projects"
 - 🐧 I use Arch btw
 
